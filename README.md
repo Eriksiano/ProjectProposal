@@ -6,4 +6,27 @@ JabRef is an open-source citation and reference management tool that allows user
 
 ## Education Goals
 
-The nature of JabRef requires knowledge of object oriented design, particularly in Java. Implementing and editing features in this project will increase knowledge in object oriented design and the principles of OOP with direct development experience. JabRef is a java graphical application and happens to utilize the JavaFx library to develop the GUI of the application. Contribution to the project will increase knowledge of GUIs by using and learning JavaFx.
+The nature of JabRef requires knowledge of object oriented design, particularly in Java. Implementing and editing features in this project will increase knowledge in object oriented design and the principles of OOP with direct development experience. JabRef is a java graphical application and happens to utilize the JavaFx library to develop the GUI of the application. Contribution to the project will increase knowledge of GUIs by using and learning JavaFx. This project requires testing functions and includes Junit testing files, which will increase the contributors knowledge of TDD. Among the open issues of the project, bugs present a signifcant portion and require debugging skills and knowledge. This project includes work with database techonology, such as postgreSQL. Targeting these educational goal will provide contributors with in-depth experience in software development, which requires group work, communication and code refactoring whihc will seperate contributors from progammers to having experience in software design.
+
+* JabRef promotes university students to beomce contributors : https://devdocs.jabref.org/teaching
+
+## Contribution
+
+This project has over 200 open issues many of which have the "good first issue" label that allows new contributors to get familiar with working on the project. These issues vary from complex bugs to UI improvments, and tackling bugs with high priority will provide contributors with a depth and breadth of knowledge in regards to educational goals.
+
+## Background
+
+https://github.com/JabRef
+
+### Prerequisites 
+
+* A working Java (Develoment Kit) 15 installation with Java FX support is required.
+
+Fork JabRef into your GitHub account
+Log into your GitHub account
+Go to https://github.com/JabRef/jabref
+Create a fork by clicking at fork button on the right top corner
+A fork repository will be created under your account https://github.com/YOUR\_USERNAME/jabref
+
+### Building/Running instructions
+This link provide a thorough explanation of setting up local workspace: https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace
