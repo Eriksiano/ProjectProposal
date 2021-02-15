@@ -4,6 +4,8 @@
 
 JabRef is an open-source citation and reference management tool that allows users to collect and organize sources while providing an interface that can be used to edit BibTex files. It particularly allows users to import information from online scientific databases. It is largely used by students and researchers in academia and for good reasons. JabRef makes research easier with organization and collection functionalities that include retrieving and linking full-text articles, importing new references directly from the web browser with a single click.
 
+![dev-view](https://user-images.githubusercontent.com/70276150/107999893-a3eecf80-6fb6-11eb-95fc-583cd05e2203.png)
+
 ## Education Goals
 
 The nature of JabRef requires knowledge of object oriented design, particularly in Java. Implementing and editing features in this project will increase knowledge in object oriented design and the principles of OOP with direct development experience. JabRef is a java graphical application and happens to utilize the JavaFx library to develop the GUI of the application. Contribution to the project will increase knowledge of GUIs by using and learning JavaFx. This project requires testing functions and includes Junit testing files, which will increase the contributors knowledge of TDD. Among the open issues of the project, bugs present a signifcant portion and require debugging skills and knowledge. This project includes work with database techonology, such as postgreSQL. Targeting these educational goal will provide contributors with in-depth experience in software development, which requires group work, communication and code refactoring whihc will seperate contributors from progammers to having experience in software design.
