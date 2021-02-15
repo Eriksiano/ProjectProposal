@@ -8,7 +8,7 @@ JabRef is an open-source citation and reference management tool that allows user
 
 The nature of JabRef requires knowledge of object oriented design, particularly in Java. Implementing and editing features in this project will increase knowledge in object oriented design and the principles of OOP with direct development experience. JabRef is a java graphical application and happens to utilize the JavaFx library to develop the GUI of the application. Contribution to the project will increase knowledge of GUIs by using and learning JavaFx. This project requires testing functions and includes Junit testing files, which will increase the contributors knowledge of TDD. Among the open issues of the project, bugs present a signifcant portion and require debugging skills and knowledge. This project includes work with database techonology, such as postgreSQL. Targeting these educational goal will provide contributors with in-depth experience in software development, which requires group work, communication and code refactoring whihc will seperate contributors from progammers to having experience in software design.
 
-* JabRef promotes university students to beomce contributors : https://devdocs.jabref.org/teaching
+* JabRef promotes university students to become contributors : https://devdocs.jabref.org/teaching
 
 ## Contribution
 
