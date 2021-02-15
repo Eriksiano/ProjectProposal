@@ -29,4 +29,4 @@ Create a fork by clicking at fork button on the right top corner
 A fork repository will be created under your account https://github.com/YOUR\_USERNAME/jabref
 
 ### Building/Running instructions
-This link provide a thorough explanation of setting up local workspace: https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace
+This link provides a thorough explanation of setting up local workspace: https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace
