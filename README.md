@@ -30,11 +30,11 @@ https://github.com/JabRef
 
 * A working Java (Develoment Kit) 15 installation with Java FX support is required.
 
-Fork JabRef into your GitHub account
-Log into your GitHub account
-Go to https://github.com/JabRef/jabref
-Create a fork by clicking at fork button on the right top corner
-A fork repository will be created under your account https://github.com/YOUR\_USERNAME/jabref
+1. Fork JabRef into your GitHub account
+2. Log into your GitHub account
+3. Go to https://github.com/JabRef/jabref
+4. Create a fork by clicking at fork button on the right top corner
+5. A fork repository will be created under your account https://github.com/YOUR\_USERNAME/jabref
 
 ### Building/Running instructions
 This link provides a thorough explanation of setting up local workspace: https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace
