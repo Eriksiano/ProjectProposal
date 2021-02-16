@@ -14,7 +14,13 @@ The nature of JabRef requires knowledge of object oriented design, particularly 
 
 ## Contribution
 
-This project has over 200 open issues many of which have the "good first issue" label that allows new contributors to get familiar with working on the project. These issues vary from complex bugs to UI improvments, and tackling bugs with high priority will provide contributors with a depth and breadth of knowledge in regards to educational goals.
+This project has over 200 open issues many of which have the "good first issue" label that allows new contributors to get familiar with working on the project. These issues vary from complex bugs to UI improvments, and tackling bugs with high priority will provide contributors with a depth and breadth of knowledge in regards to educational goals. Adressing messaging bugs that affect UX can provide experience in handling errors and working with GUIs. These are the open issues that would make for good contributions and align with the educational goals.
+
+* Multiple messages in the SnackBar #7340
+* Font size of the preferences dialog does not update with the rest of the GUI. #7416
+* Missing Import all Entries and dealing with Duplicates #7262
+* Switch from FontAwesomeFX to Ikonli #7058
+
 
 ## Background
 
